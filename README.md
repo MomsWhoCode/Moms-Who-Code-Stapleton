@@ -3,19 +3,15 @@
  
   - User can: &(non-members) - cannot view calendar
    	Access homepage W/ Main info & contact option
-    
-    <ul style="list-style-type:none">
+   
     <li>http://invis.io/N92NM12C7</li>
-   </ul>
 
   - User can: current & member
    	will see member log in option/prompt on main page
      
-     <ul style="list-style-type:none">
      <li>http://invis.io/7C2NEYBPQ</li>
      <li>http://invis.io/R83HA2WDJ</li>
-     </ul>
-
+     
  - The admin can view and add events (W/description) to calendar
  
  - The user can: contact exec. members to inquire about info/request playdate or other event
