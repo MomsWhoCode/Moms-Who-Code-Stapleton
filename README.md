@@ -4,13 +4,13 @@
   - User can: &(non-members) - cannot view calendar
    	Access homepage W/ Main info & contact option
    
-    <li>http://invis.io/N92NM12C7</li>
+    <ol>http://invis.io/N92NM12C7</ol>
 
   - User can: current & member
    	will see member log in option/prompt on main page
      
-     <li>http://invis.io/7C2NEYBPQ</li>
-     <li>http://invis.io/R83HA2WDJ</li>
+     <ol>http://invis.io/7C2NEYBPQ</ol>
+     <ol>http://invis.io/R83HA2WDJ</ol>
      
  - The admin can view and add events (W/description) to calendar
  
