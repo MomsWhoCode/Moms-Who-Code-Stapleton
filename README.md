@@ -1,45 +1,9 @@
 # Moms-Who-Code-Stapleton
 <h1>Moms Club Website</h1>
  
-  - User can: &(non-members) - cannot view calendar
-   	Access homepage W/ Main info & contact option
-   
-    <ol>http://invis.io/N92NM12C7</ol>
-
-  - User can: current & member
-   	will see member log in option/prompt on main page
-     
-     <ol>http://invis.io/7C2NEYBPQ</ol>
-     <ol>http://invis.io/R83HA2WDJ</ol>
-     
- - The admin can view and add events (W/description) to calendar
- 
- - The user can: contact exec. members to inquire about info/request playdate or other event
-      also after idea for possible events 
-
- - User can view list of attendees for each event (including # of children attending)
-     Name/ Photo
- - User can access info on main page
-
- - The admin can: Post documents for member viewing / download 
-  	(PDF)
-  		-membership form
-  		-exec. board letters
-  	   correspondence that has gone out to members.
-
--	The admin can: Post the newsletter directly to site
-
-- 	List of the months events
-
--	Admin can limit RSVP's (put max number of attendees)
-
--	Admin can invite members to fill out info and join
-	be able to attach document after applying 
-	
--	View the calendar of events and RSVP
-
--	User can view complete website on a mobile divice
-
--	The user can: receive text messages to remind about events (and email messages)
-
--	The admin can: Post calendar and make changes through site.  
+  Instructions for fulfilling requirements:
+  	1.  Access requirements from Google Docs
+  	2.  Choose the requirement you would like to fulfill and WRITE YOUR NAME by the requirement
+  	3.  Fulfill the requirement independently on your own machine
+  	4.  Commit and push your completed requirement to github
+  	5.  Write COMPLETE by your name in Google Docs once you are done fulfilling the requirement
