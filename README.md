@@ -1,7 +1,11 @@
 # Moms-Who-Code-Stapleton
-<h1>Moms Club Website</h1>
+<h2>Welcome Moms</h2>
+ <p>Currently, we are working on a group project, building a Mom's Club Website.  If you'd like to join in the fun, first you need to set up your IDE.  Checkout the Git Wiki, and click on 'Tutorials', then 'Install Rails'.  There's a lot of other great resources on the wiki, but 'Install Rails' will walk you through installing many of the tools you'll need to help with the website.  Once you're all set up, see the tasks we're working on in the Project Requirements below.</p>
  
-  <h2>Instructions for fulfilling requirements:</h2>
+ 
+<h2>Moms Club Website</h2>
+ 
+  <h3>Instructions for fulfilling requirements:</h3>
   	<p>1.  Access requirements from Google Docs https://docs.google.com/spreadsheets/d/1GizZU4f2Z0jvpisSusJQxLOI6xhfk22cymbgRPk9DLg/edit?usp=sharing</p>
   	<p>2.  Choose the requirement you would like to fulfill and WRITE YOUR NAME by the requirement</p>
   	<p>3.  Copy and paste the links to the resource(s) you will follow to fulfill this requirement.  It doesn't matter if you successfully fulfill the requirement, just try :) If you hit a wall, come to our next MeetUp and ask questions.  This is how you will learn :)</p>
